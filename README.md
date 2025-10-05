@@ -32,6 +32,7 @@ They are : Chrome Remote Desktop
 
 Microsoft Bing Search with Rewards 2.22
 
+<img width="1580" height="615" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-7-Identify-Browser-Extensions/blob/main//Screenshot 2025-10-05 200722.png" />
 
 # Microsoft Edge Extensions
 In microsoft edge default one extension is present.
