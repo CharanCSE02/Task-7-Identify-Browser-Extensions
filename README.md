@@ -32,11 +32,13 @@ They are : Chrome Remote Desktop
 
 Microsoft Bing Search with Rewards 2.22
 
-<img width="1580" height="615" alt="Nessus scanners-output-img" src="https://github.com/CharanCSE02/Task-7-Identify-Browser-Extensions/" />
+
 # Microsoft Edge Extensions
 In microsoft edge default one extension is present.
 
 Google Docs Offline
+
+<img width="1580" height="615" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-7-Identify-Browser-Extensions/blob/main//Screenshot 2025-10-05 192419.png" />
 
 #  VT4browsers extension
 The VT4browsers extension is installed from microsoft store.
@@ -46,5 +48,7 @@ It useful for the downloads process.Like chaning the malicous file is there are 
 About : It connect to VirusTotal Browser Extension
 
 Permissions : Manges your downloads.
+
+<img width="1580" height="615" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-7-Identify-Browser-Extensions/blob/main//Screenshot 2025-10-05 192604.png" />
 
 
