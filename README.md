@@ -53,3 +53,4 @@ Permissions : Manges your downloads.
 <img width="1580" height="615" alt="Microsoft-Extension" src="https://github.com/CharanCSE02/Task-7-Identify-Browser-Extensions/blob/main//Screenshot 2025-10-05 192604.png" />
 
 
+Jg\zrPqb6KFt6.6=i3%|%zK,9[mj{4f|
